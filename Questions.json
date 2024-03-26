@@ -1,0 +1,174 @@
+[
+    {
+      "question": "LFD2 was banned in Australia.",
+      "category": "world",
+      "answer": "True",
+      "choices": [
+        "False",
+        "True"
+      ]
+    },
+    {
+      "question": "One of the remnants of this states former status as a possession of France is the fact that it was named after a French king.",
+      "category": "world",
+      "answer": "Louisiana",
+      "choices": [
+        "Oklahoma",
+        "Florida",
+        "Louisiana",
+        "Georgia"
+      ]
+    },
+    {
+      "question": "No state has as many different species of mammals as this one. The average square mile of land contains 1.4 elk, 1.4 pronghorn antelope, and 3.3 deer.",
+      "category": "world",
+      "answer": "Montana",
+      "choices": [
+        "Nebraska",
+        "Nevada",
+        "Colorado",
+        "Montana"
+      ]
+    },
+    {
+      "question": "Arizona became the 48th state on February 14, 1912.",
+      "category": "world",
+      "answer": "True",
+      "choices": [
+        "False",
+        "True"
+      ]
+    },
+    {
+      "question": "The largest lake in this state is Lake Okeechobee. The state is also home to one of the two naturally round lakes in the world.",
+      "category": "world",
+      "answer": "Florida",
+      "choices": [
+        "Hawaii",
+        "Tennessee",
+        "Florida",
+        "Alabama"
+      ]
+    },
+    {
+      "question": "One of the following pairs (state - its capital) is wrong.",
+      "category": "world",
+      "answer": "North Dakota - Fargo",
+      "choices": [
+        "Kentucky - Frankfort",
+        "Kansas - Topeka",
+        "Maine - Augusta",
+        "North Dakota - Fargo"
+      ]
+    },
+    {
+      "question": "The 3rd Monday in April is Patriots Day - a legal holiday in this state.",
+      "category": "world",
+      "answer": "Massachusetts",
+      "choices": [
+        "California",
+        "Washington",
+        "Oregon",
+        "Massachusetts"
+      ]
+    },
+    {
+      "question": "Francis Drake was 66 years old at his inauguration and the oldest governor of this state.",
+      "category": "world",
+      "answer": "Iowa",
+      "choices": [
+        "Nevada",
+        "Ohio",
+        "Minnesota",
+        "Iowa"
+      ]
+    },
+    {
+      "question": "What is the state capital of Washington?",
+      "category": "world",
+      "answer": "Olympia",
+      "choices": [
+        "Olympia",
+        "Seattle",
+        "Walla Walla",
+        "Spokane"
+      ]
+    },
+    {
+      "question": "What is the state capital of Oregon?",
+      "category": "world",
+      "answer": "Salem",
+      "choices": [
+        "Bend",
+        "Portland",
+        "Eugene",
+        "Salem"
+      ]
+    },
+    {
+      "question": "What is the state capital of California?",
+      "category": "world",
+      "answer": "Sacramento",
+      "choices": [
+        "Sacramento",
+        "Los Angeles",
+        "San Diego",
+        "San Francisco"
+      ]
+    },
+    {
+      "question": "What is the state capital of Idaho?",
+      "category": "world",
+      "answer": "Boise",
+      "choices": [
+        "Boise",
+        "Idaho Falls",
+        "Pocatello",
+        "Coeur DAlene"
+      ]
+    },
+    {
+      "question": "What is the state capital of Nevada?",
+      "category": "world",
+      "answer": "Carson City",
+      "choices": [
+        "Reno",
+        "Las vegas",
+        "Carson City",
+        "Austin"
+      ]
+    },
+    {
+      "question": "What is the state capital of Utah?",
+      "category": "world",
+      "answer": "Salt Lake city",
+      "choices": [
+        "Cedar City",
+        "Provo",
+        "Price",
+        "Salt Lake city"
+      ]
+    },
+    {
+      "question": "What is the state capital of Arizona?",
+      "category": "world",
+      "answer": "Phoenix",
+      "choices": [
+        "Phoenix",
+        "Kingman",
+        "Tucson",
+        "Flagstaff"
+      ]
+    },
+    {
+      "question": "What is the state capital of Alaska?",
+      "category": "world",
+      "answer": "Juneau",
+      "choices": [
+        "Kodiak",
+        "Juneau",
+        "Anchorage",
+        "Fairbanks"
+      ]
+    }
+]
